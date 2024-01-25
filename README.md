@@ -1,5 +1,5 @@
 # Ansible image
-Docker image with python 3 to run `Ansible` playbooks and `Molecule` tests
+Python3 image with `Ansible` playbooks
 
 ## Content
 * Python3
