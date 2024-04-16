@@ -13,6 +13,7 @@ jobs:
       matrix:
         ansible:
           - 9.1.0
+          - 9.3.0
     steps:
       - uses: actions/checkout@v2
       - uses: docker/setup-qemu-action@v1
